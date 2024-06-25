@@ -2,7 +2,6 @@
 - 👀 I’m interested in UX Design
 - 🌱 I’m currently learning PWAs. 
 - 📫 How to reach me: email - darrian98@me.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: Spiderman is my fav avenger.
 
 <!---
