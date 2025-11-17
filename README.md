@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @darrianpeck
-- 👀 I’m interested in UX Design
-- 🌱 I’m currently learning PWAs. 
-- 📫 How to reach me: email - darrian98@me.com
+- 📫 How to reach me: email - darrianmpeck@gmail.com
 - ⚡ Fun fact: Spiderman is my fav avenger.
 
 <!---
